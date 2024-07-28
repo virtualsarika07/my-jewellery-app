@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "dev":"nodemon app.js"
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/virtualsarika07/my-jewellery-app/issues"
   },
-  "homepage": "https://github.com/virtualsarika07/my-jewellery-app#readme"
+  "homepage": "https://github.com/virtualsarika07/my-jewellery-app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
 }
