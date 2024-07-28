@@ -1,0 +1,27 @@
+{
+    "category": "Silver Jewelry",
+    "cat-id": 102,
+    "types": [
+      {
+        "name": "Earrings",
+        "items": [
+          { "id": 1, "name": "Plain Silver Earrings", "price": 15000, "image": "" },
+          { "id": 2, "name": "Sterling Silver Earrings", "price": 16000, "image": "" }
+        ]
+      },
+      {
+        "name": "Bracelets",
+        "items": [
+          { "id": 1, "name": "Plain Silver Bracelet", "price": 7000, "image": "" },
+          { "id": 2, "name": "Sterling Silver Bracelet", "price": 8000, "image": "" }
+        ]
+      },
+      {
+        "name": "Necklaces",
+        "items": [
+          { "id": 1, "name": "Plain Silver Necklace", "price": 9000, "image": "" },
+          { "id": 2, "name": "Sterling Silver Necklace", "price": 10000, "image": "" }
+        ]
+      }
+    ]
+  }

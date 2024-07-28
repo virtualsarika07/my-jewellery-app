@@ -1,0 +1,28 @@
+{
+    "category": "Gemstone Jewelry",
+    "cat-id": 101,
+    "types": [
+      {
+        "name": "Earrings",
+        "items": [
+          { "id": 1, "name": "Ruby Earrings", "price": 10000, "image": "" },
+          { "id": 2, "name": "Emerald Earrings", "price": 12000, "image": "" }
+        ]
+      },
+      {
+        "name": "Bracelets",
+        "items": [
+          { "id": 1, "name": "Sapphire Bracelet", "price": 150, "image": "" },
+          { "id": 2, "name": "Amethyst Bracelet", "price": 130, "image": "" }
+        ]
+      },
+      {
+        "name": "Necklaces",
+        "items": [
+          { "id": 1, "name": "Diamond Necklace", "price": 20000, "image": "" },
+          { "id": 2, "name": "Topaz Necklace", "price": 18000, "image": "" }
+        ]
+      }
+    ]
+  }
+  

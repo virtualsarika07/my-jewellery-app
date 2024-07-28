@@ -1,0 +1,34 @@
+{
+    "category": "Gold Jewelry",
+   "cat-id": 104,
+    "types": [
+      {
+        "name": "Earrings",
+        "items": [
+          { "id": 1, "name": "Flower Earrings", "price": 30000, "image": "" },
+          { "id": 2, "name": "energy Earrings", "price": 50000, "image": "" },
+          { "id": 3, "name": "fine Earrings", "price": 30000, "image": "" },
+          { "id": 4, "name": "dummy Earrings", "price": 50000, "image": "" }
+        ]
+      },
+      {
+        "name": "Bracelets",
+        "items": [
+          { "id": 1, "name": " Bracelet 1", "price": 50000, "image": "" },
+          { "id": 2, "name": " Bracelet 2", "price": 60000, "image": "" },
+          { "id": 3, "name": " Bracelet 3", "price": 50000, "image": "" },
+          { "id": 4, "name": " Bracelet 4", "price": 60000, "image": "" }
+        ]
+      },
+      {
+        "name": "Necklaces",
+        "items": [
+          { "id": 1, "name": "round Necklace", "price": 200000, "image": "" },
+          { "id": 2, "name": "square Necklace", "price": 180000, "image": "" },
+          { "id": 3, "name": "heavy Necklace", "price": 200000, "image": "" },
+          { "id": 4, "name": "slow Necklace", "price": 180000, "image": "" }
+        ]
+      }
+    ]
+  }
+  
