@@ -1,0 +1,134 @@
+{
+    "category": "zem-stone jewellery",
+    "types:":[
+        {
+          "name":  "Astro-gems",
+          "items":[
+            {
+               "name": "Blue Saffire" ,
+               "zem_id" : 101,
+               "image":""
+            },
+            {
+                "name": "Cat's Eye" ,
+                "zem_id" : 102,
+                 "image":""
+             },
+             {
+                "name": "Emerled" ,
+                "zem_id" : 103,
+                 "image":""
+             },
+             {
+                "name": "Hassonite" ,
+                "zem_id" : 104,
+                 "image":""
+             },
+             {
+                "name": "Opal" ,
+                "zem_id" : 105,
+                 "image":""
+             }
+           
+          ]
+
+        },
+        {
+            "name": "Vedic Gemstones",
+            "items":[
+                {
+                    "name": "Amethyst" ,
+                    "ved_id" : 101,
+                     "image":""
+                 },
+                 {
+                    "name": "blue zircon" ,
+                    "ved_id" : 102,
+                     "image":""
+                 },
+                 {
+                    "name": "citrine" ,
+                    "ved_id" : 103,
+                     "image":""
+                 },
+                 {
+                    "name": "lolite" ,
+                    "ved_id" : 104,
+                     "image":""
+                 },
+                 {
+                    "name": "peridot" ,
+                    "ved_id" : 105,
+                     "image":""
+                 }
+                
+            ]
+        },
+        {
+            "name": "Exclusive Gemstones",
+            "items":[
+                {
+                    "name": "Ametrine" ,
+                    "ex_id" : 101,
+                     "image":""
+                 },
+                 {
+                    "name": "Aquamarine" ,
+                    "ex_id" : 102,
+                     "image":""
+                 },
+                 {
+                    "name": "Blue Topaz" ,
+                    "ex_id" : 103,
+                     "image":""
+                 },
+                 {
+                    "name": "Diamond" ,
+                    "ex_id" : 104,
+                     "image":""
+                 },
+                 {
+                    "name": "Pink sapphire" ,
+                    "ex_id" : 105,
+                     "image":""
+                 }
+                 
+                 
+            ]
+        },
+        {
+            "name":  "Other Zemstone",
+            "items":[
+              {
+                 "name": "Moon Stone" ,
+                 "oth_id" : 101,
+                 "image":""
+              },
+              {
+                  "name": "Turquoise" ,
+                  "oth_id" : 102,
+                   "image":""
+               },
+               {
+                  "name": "Red Garnet" ,
+                  "oth_id" : 103,
+                   "image":""
+               },
+               {
+                  "name": "Helliodar" ,
+                  "oth_id" : 104,
+                   "image":""
+               },
+               {
+                  "name": "Amber" ,
+                  "oth_id" : 105,
+                   "image":""
+               }
+             
+            ]
+  
+          }
+
+
+    ]
+}

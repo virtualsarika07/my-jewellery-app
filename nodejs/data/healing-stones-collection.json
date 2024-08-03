@@ -1,0 +1,33 @@
+{
+    "category": "Healing Stones",
+    "types:":[
+       {
+        "name": "Onyx",
+        "he_id": 401,
+        "image": ""
+       },
+       {
+        "name": "Jesper",
+        "he_id": 402,
+        "image": ""
+       },
+       {
+        "name": "Agate black",
+        "he_id": 403,
+        "image": ""
+       },
+       {
+        "name": "Lapis lazuli",
+        "he_id": 404,
+        "image": ""
+       },
+       {
+        "name": "Sunstone",
+        "he_id": 405,
+        "image": ""
+       }
+    
+
+
+    ]
+}

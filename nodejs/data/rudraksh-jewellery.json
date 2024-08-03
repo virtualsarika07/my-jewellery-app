@@ -1,33 +1,31 @@
 {
     "category": "Rudraksh",
-    "cat-id": 103,
+   
     "types": [
       {
-        "name": "Earrings",
-        "items": [
-          { "id": 1, "name": "Rudraksh Earrings 1", "price": 4000, "image": "" },
-          { "id": 2, "name": "Rudraksh Stud Earrings", "price": 4500, "image": "" },
-          { "id": 3, "name": "Rudraksh Earrings 2", "price": 4000, "image": "" },
-          { "id": 4, "name": "Rudraksh Stud Earrings 2", "price": 4500, "image": "" }
-        ]
+        "name": "1 to 7 Mukhi",
+        "ru_id": 301,
+        "img":""
       },
       {
-        "name": "Bracelets",
-        "items": [
-          { "id": 1, "name": "Rudraksh Bracelet 1", "price": 6000, "image": "" },
-          { "id": 2, "name": "Rudraksh Mala Bracelet", "price": 6500, "image": "" },
-          { "id": 3, "name": "Rudraksh Bracelet 2", "price": 6000, "image": "" },
-          { "id": 4, "name": "Rudraksh Mala Bracelet 2", "price": 6500, "image": "" }
-        ]
+        "name": "8 to 12 Mukhi",
+        "ru_id": 302,
+        "img":""
       },
       {
-        "name": "Necklaces",
-        "items": [
-          { "id": 1, "name": "Rudraksh Necklace 1", "price": 80000, "image": "" },
-          { "id": 2, "name": "Rudraksh Mala Necklace", "price": 8500, "image": "" },
-          { "id": 3, "name": "Rudraksh Necklace 2", "price": 80000, "image": "" },
-          { "id": 4, "name": "Rudraksh Mala Necklace 1", "price": 8500, "image": "" }
-        ]
+        "name": "Ganesh",
+        "ru_id": 303,
+        "img":""
+      },
+      {
+        "name": "Gauri Shankar",
+        "ru_id": 304,
+        "img":""
+      },
+      {
+        "name": "Rudraksh Mala",
+        "ru_id": 305,
+        "img":""
       }
     ]
   }

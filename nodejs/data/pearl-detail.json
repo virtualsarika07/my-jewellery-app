@@ -1,0 +1,35 @@
+{
+    "category": "Pearl Jewellery collection",
+   
+    "types": [
+      {
+        "name": "South-sea-pearl",
+        "pl-id":"201",
+        "items": [
+          { "id": 1, "name": "SOUTH SEA PEARL- 12.00 CARAT","SKU": "SP000162", "Origin": "Australia" ,"price": "30,000", "image": "" },
+          { "id": 2, "name": "SOUTH SEA PEARL - 10.11 CARAT","SKU": "SP000161","Origin": "Australia", "price":"27,900", "image": "" },
+          { "id": 3, "name": "SOUTH SEA PEARL - 4.11 CARAT","SKU": "SP000160","Origin": "Australia", "price": "40,000", "image": "" },
+          { "id": 4, "name": "SOUTH SEA PEARL - 3.59 CARAT","SKU": "SP000163", "Origin": "Australia" , "price": "20,000", "image": "" }
+        ]
+      },
+      {
+        "name": "Black pearl(Tahitian)",
+        "items": [
+          { "id": 1, "name": " BLACK PEARL -12.47 CARAT","SKU":"BT000018","Origin": "Tahiti", "price": "34,700", "image": "" },
+          { "id": 2,  "name": " BLACK PEARL -7.44 CARAT","SKU":"BT000017","Origin": "Tahiti", "price": "20,200", "image": ""},
+          { "id": 3, "name": " Bracelet 3", "price": 50000, "image": "" },
+          { "id": 4, "name": " Bracelet 4", "price": 60000, "image": "" }
+        ]
+      },
+      {
+        "name": "Necklaces",
+        "items": [
+          { "id": 1, "name": "round Necklace", "price": 200000, "image": "" },
+          { "id": 2, "name": "square Necklace", "price": 180000, "image": "" },
+          { "id": 3, "name": "heavy Necklace", "price": 200000, "image": "" },
+          { "id": 4, "name": "slow Necklace", "price": 180000, "image": "" }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+{
+    "category": "Beads & Braclet",
+    "items":[
+        {
+            "name": "Healing Braclet",
+            "bb-id":"201",
+            "image":""
+        },
+        {
+            "name": "Japa Mala(Rosary)",
+            "bb-id":"202",
+            "image":""
+        },
+        {
+            "name": "Loose beads String",
+            "bb-id":"203",
+            "image":""
+        },
+        {
+            "name": "Customized braclets",
+            "bb-id":"204",
+            "image":""
+        },
+        {
+            "name": "Tasbin beads",
+            "bb-id":"205",
+            "image":""
+        }
+    ]
+}

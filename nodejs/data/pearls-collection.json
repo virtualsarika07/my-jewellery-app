@@ -1,0 +1,30 @@
+{
+    "category": "Pearls collection",
+    "items":[
+        {
+            "name": "South sea pearl",
+            "pl-id":"201",
+            "image":""
+        },
+        {
+            "name": "Black pearl(Tahitian)",
+            "pl-id":"202",
+            "image":""
+        },
+        {
+            "name": "Keshi pearl",
+            "pl-id":"203",
+            "image":""
+        },
+        {
+            "name": "Basra pearl",
+            "pl-id":"204",
+            "image":""
+        },
+        {
+            "name": "Pearl Jewellery",
+            "pl-id":"205",
+            "image":""
+        }
+    ]
+}
